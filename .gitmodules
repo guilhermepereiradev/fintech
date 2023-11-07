@@ -1,0 +1,6 @@
+[submodule "ms-clientes"]
+	path = ms-clientes
+	url = git@github.com:guilhermepereiradev/ms-clientes.git
+[submodule "eurekaserver"]
+	path = eurekaserver
+	url = git@github.com:guilhermepereiradev/eurekaserver.git
