@@ -7,3 +7,6 @@
 [submodule "ms-cloudgateway"]
 	path = ms-cloudgateway
 	url = git@github.com:guilhermepereiradev/ms-cloudgetway.git
+[submodule "ms-cartoes"]
+	path = ms-cartoes
+	url = git@github.com:guilhermepereiradev/ms-cartoes.git
