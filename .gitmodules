@@ -10,3 +10,6 @@
 [submodule "ms-cartoes"]
 	path = ms-cartoes
 	url = git@github.com:guilhermepereiradev/ms-cartoes.git
+[submodule "ms-avaliadorcredito"]
+	path = ms-avaliadorcredito
+	url = git@github.com:guilhermepereiradev/ms-avaliadorcredito.git
